@@ -1,0 +1,31 @@
+/*
+Theme Name: Green Estate
+Description: Child theme for Green Estate
+Author: Sugarcane
+Author URI: https://sugarcane.agency
+Template: Avada
+Version: 1.0.0
+Text Domain:  Avada
+*/
+
+.fusion-logo img {
+	position: absolute;
+    right: -81px;
+    top: 17px;
+}
+
+.hero-section h3 {
+	text-align: center!important;
+    color: #d1db90!important;
+    font-weight: lighter!important;
+    font-size: 25px!important;
+    line-height: 1.5!important;
+}
+
+.fusion-title .title-sep.sep-single {
+    border-bottom-width: 6px;
+}
+
+.event-holder {
+
+}
